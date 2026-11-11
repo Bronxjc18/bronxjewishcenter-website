@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:68c0ce9803cab80d42805eb7@bronxjewishcenter.org
+DTSTAMP:20251001T221500Z
+DTSTART:20251001T221500Z
+DTEND:20251002T001500Z
+SUMMARY:Kol Nidrei & Maariv Service
+LOCATION:Bronx Jewish Center, 900 Pelham Parkway South, The Bronx, NY, 10462
+DESCRIPTION:RSVp Here
+URL:https://www.bronxjewishcenter.org/bjc-events/kolnidrei
+END:VEVENT
+END:VCALENDAR

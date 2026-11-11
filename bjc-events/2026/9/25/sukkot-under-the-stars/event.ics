@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:6a9f572cde7da85647d63785@bronxjewishcenter.org
+DTSTAMP:20260925T230000Z
+DTSTART:20260925T230000Z
+DTEND:20260926T010000Z
+SUMMARY:Sukkot Under The Stars
+LOCATION:
+DESCRIPTION:Join us for a warm, festive holiday dinner in the sukkah — all are welcome! RSVP HEre
+URL:https://www.bronxjewishcenter.org/bjc-events/2026/9/25/sukkot-under-the-stars
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:60953f2c8555c95fc124b2de@bronxjewishcenter.org
+DTSTAMP:20210517T140000Z
+DTSTART:20210517T140000Z
+DTEND:20210518T150000Z
+SUMMARY:Shavuot Celebration
+LOCATION:
+DESCRIPTION:Join us on Monday May 17th, 2021 at 10:00 am and Tuesday May 18th, 2021 at 10:00 am for Shavuot Celebration at Bronx Jewish Center.
+URL:https://www.bronxjewishcenter.org/bjc-events/2021/5/17/shavuot-celebration
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:69eb978fc723bb19f2e169f9@bronxjewishcenter.org
+DTSTAMP:20260505T220000Z
+DTSTART:20260505T220000Z
+DTEND:20260505T230000Z
+SUMMARY:Lag Ba'omer 
+LOCATION:Bronx Jewish Center, 900 Pelham Parkway South, The Bronx, NY, 10462
+DESCRIPTION:Join us for a Lag Ba’omer celebration for the whole family Yummy BBQ - Activities - Music Bring your instruments to join the jam RSVP
+URL:https://www.bronxjewishcenter.org/bjc-events/lagbbq
+END:VEVENT
+END:VCALENDAR

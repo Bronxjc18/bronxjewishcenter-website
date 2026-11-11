@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:640f26edd15b7c27bcf316c7@bronxjewishcenter.org
+DTSTAMP:20230413T223000Z
+DTSTART:20230413T223000Z
+DTEND:20230413T233000Z
+SUMMARY:MOSHIACH MEAL
+LOCATION:
+DESCRIPTION:Join us on April 13th 6:30 pm at The BJC At Pelham Parkway, 900 Pelham Pkwy S, Bronx, NY 10462
+URL:https://www.bronxjewishcenter.org/bjc-events/2023/4/13/moshiach-meal
+END:VEVENT
+END:VCALENDAR

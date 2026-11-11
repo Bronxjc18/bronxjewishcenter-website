@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:6a0762191f29244993e435e4@bronxjewishcenter.org
+DTSTAMP:20260522T133000Z
+DTSTART:20260522T133000Z
+DTEND:20260522T163000Z
+SUMMARY:Ten Commandments and Dairy Buffet
+LOCATION:Bronx Jewish Center, 900 Pelham Parkway South, The Bronx, NY, 10462
+DESCRIPTION:Join us in celebrating Shavuos by reading the Ten Commandments and enjoying a delicious dairy buffet and ice cream party! We look forward to welcoming you! Holiday Services: 9:30 AM Reading of The Ten Commandments: 10:30 AM Followed by a dairy Kiddush RSVP HERE
+URL:https://www.bronxjewishcenter.org/bjc-events/shavuos26
+END:VEVENT
+END:VCALENDAR

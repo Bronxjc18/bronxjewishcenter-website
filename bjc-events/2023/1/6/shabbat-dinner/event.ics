@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:63ae64af9488862f411a719f@bronxjewishcenter.org
+DTSTAMP:20230107T000000Z
+DTSTART:20230107T000000Z
+DTEND:20230107T010000Z
+SUMMARY:SHABBAT DINNER
+LOCATION:
+DESCRIPTION:Join us on January 6th at 7:00 pm at The BJC At Pelham Parkway, 900 Pelham Pkwy S, Bronx, NY 10462
+URL:https://www.bronxjewishcenter.org/bjc-events/2023/1/6/shabbat-dinner
+END:VEVENT
+END:VCALENDAR

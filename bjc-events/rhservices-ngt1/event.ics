@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:6a91d72b4c4c486eb24be7f0@bronxjewishcenter.org
+DTSTAMP:20260911T223000Z
+DTSTART:20260911T223000Z
+DTEND:20260911T233000Z
+SUMMARY:Rosh Hashana Evening Services
+LOCATION:Bronx Jewish Center, 900 Pelham Parkway South, The Bronx, NY, 10462
+DESCRIPTION:rsvp here
+URL:https://www.bronxjewishcenter.org/bjc-events/rhservices-ngt1
+END:VEVENT
+END:VCALENDAR

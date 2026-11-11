@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:6a91d85eded682330ec1c498@bronxjewishcenter.org
+DTSTAMP:20260913T133000Z
+DTSTART:20260913T133000Z
+DTEND:20260913T173000Z
+SUMMARY:Rosh Hashana Morning Services & Shofar
+LOCATION:Bronx Jewish Center, 900 Pelham Parkway South, The Bronx, NY, 10462
+DESCRIPTION:9:30 am - Morning Services 11:30 am - Shofar Sounding Followed by a hot kiddush lunch rsvp here
+URL:https://www.bronxjewishcenter.org/bjc-events/rhshofar-day2
+END:VEVENT
+END:VCALENDAR

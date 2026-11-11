@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:618b61c469fce41d93f946d0@bronxjewishcenter.org
+DTSTAMP:20211129T100000Z
+DTSTART:20211129T100000Z
+DTEND:20211129T110000Z
+SUMMARY:Chanukah at Hunts Point
+LOCATION:
+DESCRIPTION:Join us on Monday, November 29th, 2021 at 5:00AM for Chanukah with family and friends at Hunts Point.
+URL:https://www.bronxjewishcenter.org/bjc-events/2021/11/29/chanukah-at-hunts-point
+END:VEVENT
+END:VCALENDAR

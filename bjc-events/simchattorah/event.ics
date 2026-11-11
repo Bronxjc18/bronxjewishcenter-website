@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:6a9f5d726b9f6e11d3674aa4@bronxjewishcenter.org
+DTSTAMP:20261002T230000Z
+DTSTART:20261002T230000Z
+DTEND:20261003T020000Z
+SUMMARY:Simchat Torah - Let's Dance Again
+LOCATION:
+DESCRIPTION:Join us for the joyous holiday of Simchat Torah RSVP HEre
+URL:https://www.bronxjewishcenter.org/bjc-events/simchattorah
+END:VEVENT
+END:VCALENDAR

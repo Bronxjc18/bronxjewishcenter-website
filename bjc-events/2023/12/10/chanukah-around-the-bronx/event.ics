@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:65660a278313873881e9d0b3@bronxjewishcenter.org
+DTSTAMP:20231210T183000Z
+DTSTART:20231210T183000Z
+DTEND:20231210T193000Z
+SUMMARY:Chanukah Around The Bronx
+LOCATION:
+DESCRIPTION:
+URL:https://www.bronxjewishcenter.org/bjc-events/2023/12/10/chanukah-around-the-bronx
+END:VEVENT
+END:VCALENDAR

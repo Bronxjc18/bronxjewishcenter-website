@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:618ab8f5d85d6a1fd7b6b49a@bronxjewishcenter.org
+DTSTAMP:20211128T180000Z
+DTSTART:20211128T180000Z
+DTEND:20211128T190000Z
+SUMMARY:Chanukah 'Can'Orah
+LOCATION:
+DESCRIPTION:Join us on Sunday, November 28th, 2021 at 1:00PM for Chanukah ‘Can’Orah with family and friends at Bronx Jewish Center.
+URL:https://www.bronxjewishcenter.org/bjc-events/2021/11/28/chanukah-canorah
+END:VEVENT
+END:VCALENDAR

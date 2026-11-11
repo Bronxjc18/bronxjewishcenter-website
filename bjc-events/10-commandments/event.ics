@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:68278c61cb4aee33140d5a2b@bronxjewishcenter.org
+DTSTAMP:20250602T133000Z
+DTSTART:20250602T133000Z
+DTEND:20250602T163000Z
+SUMMARY:10 Commandments and Shavuot Ice Cream Party
+LOCATION:Bronx Jewish Center, 900 Pelham Parkway South, The Bronx, NY, 10462
+DESCRIPTION:Come hear the 10 Commandments and enjoy a delicious dairy treat! RSVP
+URL:https://www.bronxjewishcenter.org/bjc-events/10-commandments
+END:VEVENT
+END:VCALENDAR

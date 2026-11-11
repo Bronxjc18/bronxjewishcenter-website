@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:69d534ab54cfdf7326d80a3f@bronxjewishcenter.org
+DTSTAMP:20260409T220000Z
+DTSTART:20260409T220000Z
+DTEND:20260410T000000Z
+SUMMARY:Moshiach Meal
+LOCATION:Bronx Jewish Center, 900 Pelham Parkway South, The Bronx, NY, 10462
+DESCRIPTION:Join us for the traditional end of Passover meal. Delicious meal, inspiration and more RSVP HERE
+URL:https://www.bronxjewishcenter.org/bjc-events/moshiachmeal
+END:VEVENT
+END:VCALENDAR

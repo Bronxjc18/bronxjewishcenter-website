@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:69b435b7c3625d491074bf0f@bronxjewishcenter.org
+DTSTAMP:20260401T230000Z
+DTSTART:20260401T230000Z
+DTEND:20260402T020000Z
+SUMMARY:Passover Seder
+LOCATION:Bronx Jewish Center, 900 Pelham Parkway South, The Bronx, NY, 10462
+DESCRIPTION:Join us for a meaningful Passover Seder at the Bronx Jewish Center. Share the Exodus story with Matzah, wine, songs, and conversation. RSVP to join us. RSVP HERE
+URL:https://www.bronxjewishcenter.org/bjc-events/passover-seder
+END:VEVENT
+END:VCALENDAR

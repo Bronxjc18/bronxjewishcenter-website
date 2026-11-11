@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:618b6335fc54244f33ee345b@bronxjewishcenter.org
+DTSTAMP:20211130T210000Z
+DTSTART:20211130T210000Z
+DTEND:20211130T220000Z
+SUMMARY:Chanukah at Throggs Neck
+LOCATION:
+DESCRIPTION:Join us on Tuesday, November 30th, 2021 at 4:00PM for Chanukah with family and friends at Throggs Neck.
+URL:https://www.bronxjewishcenter.org/bjc-events/2021/11/30/chanukah-at-throggs-neck
+END:VEVENT
+END:VCALENDAR

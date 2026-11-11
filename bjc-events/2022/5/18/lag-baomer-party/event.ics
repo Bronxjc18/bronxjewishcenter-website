@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:627529596444533287b7ca9e@bronxjewishcenter.org
+DTSTAMP:20220518T220000Z
+DTSTART:20220518T220000Z
+DTEND:20220518T230000Z
+SUMMARY:Lag Baomer Party
+LOCATION:
+DESCRIPTION:Join us on May 18th, 2022 at 6:00PM for Lag Baomer Party with family and friends at Bronx Jewish Center.
+URL:https://www.bronxjewishcenter.org/bjc-events/2022/5/18/lag-baomer-party
+END:VEVENT
+END:VCALENDAR

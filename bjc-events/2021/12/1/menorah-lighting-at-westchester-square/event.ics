@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:618b64613d39c31ed02fa7b4@bronxjewishcenter.org
+DTSTAMP:20211201T220000Z
+DTSTART:20211201T220000Z
+DTEND:20211201T230000Z
+SUMMARY:Menorah Lighting at Westchester Square
+LOCATION:
+DESCRIPTION:Join us on Wednesday, December 1st, 2021 at 5:00PM for Menorah Lighting with family and friends at Westchester Square.
+URL:https://www.bronxjewishcenter.org/bjc-events/2021/12/1/menorah-lighting-at-westchester-square
+END:VEVENT
+END:VCALENDAR

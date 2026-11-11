@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:618b64c5664511127aa849c4@bronxjewishcenter.org
+DTSTAMP:20211202T220000Z
+DTSTART:20211202T220000Z
+DTEND:20211202T230000Z
+SUMMARY:Chanukah at Pelham Gardens
+LOCATION:
+DESCRIPTION:Join us on Thursday, December 2nd, 2021 at 5:00PM for Chanukah with family and friends at Pelham Gardens.
+URL:https://www.bronxjewishcenter.org/bjc-events/2021/11/10/chanukah-at-pelham-gardens
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:6a9b19aa4255075d50b0988e@bronxjewishcenter.org
+DTSTAMP:20260921T133000Z
+DTSTART:20260921T133000Z
+DTEND:20260922T003000Z
+SUMMARY:Yom Kippur Day
+LOCATION:Bronx Jewish Center, 900 Pelham Parkway South, The Bronx, NY, 10462
+DESCRIPTION:9:30 am - Morning Services 12:00 pm - Yizkor 5:30 pm - Mincha followed by Neila 7:35 pm - Shofar Blowing Followed by a light meal rsvp here
+URL:https://www.bronxjewishcenter.org/bjc-events/ykday-26
+END:VEVENT
+END:VCALENDAR

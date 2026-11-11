@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:63763b7e90f87b1328f4f4b8@bronxjewishcenter.org
+DTSTAMP:20221204T190000Z
+DTSTART:20221204T190000Z
+DTEND:20221204T200000Z
+SUMMARY:MEMORIAL SERVICE
+LOCATION:
+DESCRIPTION:Join us on December 4th at 2:00 pm at The BJC At Pelham Parkway, 900 Pelham Pkwy S, Bronx, NY 10462
+URL:https://www.bronxjewishcenter.org/bjc-events/2022/12/4/memorial-service
+END:VEVENT
+END:VCALENDAR

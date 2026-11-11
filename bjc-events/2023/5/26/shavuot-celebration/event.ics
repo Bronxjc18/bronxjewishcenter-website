@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:645db22ddc015b338c8a94b7@bronxjewishcenter.org
+DTSTAMP:20230526T140000Z
+DTSTART:20230526T140000Z
+DTEND:20230527T150000Z
+SUMMARY:Shavuot Celebration
+LOCATION:
+DESCRIPTION:Join us on May 26th, 2023 at 10:00AM & May 27th, 2023 at 11:00AM at The BJC At Pelham Parkway, 900 Pelham Pkwy S, Bronx, NY 10462
+URL:https://www.bronxjewishcenter.org/bjc-events/2023/5/26/shavuot-celebration
+END:VEVENT
+END:VCALENDAR

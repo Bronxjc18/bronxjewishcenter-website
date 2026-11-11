@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:618b65f8f2d5f75efc03b5ec@bronxjewishcenter.org
+DTSTAMP:20211204T120000Z
+DTSTART:20211204T120000Z
+DTEND:20211204T130000Z
+SUMMARY:Boston Garden
+LOCATION:
+DESCRIPTION:Join us on Saturday, December 4th, 2021 at 7:00AM for Motzei Shabbat with family and friends at Allerton.
+URL:https://www.bronxjewishcenter.org/bjc-events/2021/12/4/motzei-shabbat
+END:VEVENT
+END:VCALENDAR

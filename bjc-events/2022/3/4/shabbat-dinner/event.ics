@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:6217a03ad362a34f8b8c75bd@bronxjewishcenter.org
+DTSTAMP:20220305T000000Z
+DTSTART:20220305T000000Z
+DTEND:20220305T010000Z
+SUMMARY:Shabbat Dinner
+LOCATION:
+DESCRIPTION:Join us on Friday, March 4th, 2022 at 7:00PM for Shabbat Dinner with family and friends at Bronx Jewish Center.
+URL:https://www.bronxjewishcenter.org/bjc-events/2022/3/4/shabbat-dinner
+END:VEVENT
+END:VCALENDAR

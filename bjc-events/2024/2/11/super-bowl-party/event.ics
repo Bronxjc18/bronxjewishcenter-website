@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:65b7b8935472655df08c0d8a@bronxjewishcenter.org
+DTSTAMP:20240211T233000Z
+DTSTART:20240211T233000Z
+DTEND:20240212T003000Z
+SUMMARY:Super Bowl Party
+LOCATION:
+DESCRIPTION:February 11th at 6:30 pm at The BJC At Pelham Parkway, 900 Pelham Pkwy S, Bronx, NY 10462
+URL:https://www.bronxjewishcenter.org/bjc-events/2024/2/11/super-bowl-party
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:698f676952ddca51d940f668@bronxjewishcenter.org
+DTSTAMP:20260303T220000Z
+DTSTART:20260303T220000Z
+DTEND:20260304T000000Z
+SUMMARY:Purim in Candyland
+LOCATION:
+DESCRIPTION:Come celebrate Purim in a dreamy Candyland with the Bronx Jewish Center! Megillah Reading Mishloach Manot Exchange Hot Dinner Crafts and Games Come in costume! RSVP TODAY
+URL:https://www.bronxjewishcenter.org/bjc-events/purimincandyland
+END:VEVENT
+END:VCALENDAR

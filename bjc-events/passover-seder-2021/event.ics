@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:6054b74d0012f9333cb5125e@bronxjewishcenter.org
+DTSTAMP:20210328T000000Z
+DTSTART:20210328T000000Z
+DTEND:20210328T010000Z
+SUMMARY:Passover Seder
+LOCATION:Bronx Jewish Center, 1969 Haight Avenue, The Bronx, NY, 10461
+DESCRIPTION:Join us on Saturday, March 27, 2021 at 8:00PM for warm interactive seder with lively songs, mystical insights, and traditional delicacies at Bronx Jewish Center.
+URL:https://www.bronxjewishcenter.org/bjc-events/passover-seder-2021
+END:VEVENT
+END:VCALENDAR

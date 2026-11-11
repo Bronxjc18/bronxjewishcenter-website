@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:633e65305cd7670fd190cb88@bronxjewishcenter.org
+DTSTAMP:20221016T230000Z
+DTSTART:20221016T230000Z
+DTEND:20221017T000000Z
+SUMMARY:SIMCHAT TORAH
+LOCATION:
+DESCRIPTION:Join us on October 16th at 7:00 pm at The BJC At Pelham Parkway, 900 Pelham Pkwy S, Bronx, NY 10462
+URL:https://www.bronxjewishcenter.org/bjc-events/2022/10/16/simchat-torah
+END:VEVENT
+END:VCALENDAR

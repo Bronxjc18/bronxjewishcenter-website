@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:638f69e618384605ef556d31@bronxjewishcenter.org
+DTSTAMP:20221218T190000Z
+DTSTART:20221218T190000Z
+DTEND:20221218T200000Z
+SUMMARY:CHANUKAH CONCERT
+LOCATION:
+DESCRIPTION:Join us on December 18th at 2:00 pm at The BJC At Pelham Parkway, 900 Pelham Pkwy S, Bronx, NY 10462
+URL:https://www.bronxjewishcenter.org/bjc-events/2022/12/18/chanukah-concert
+END:VEVENT
+END:VCALENDAR

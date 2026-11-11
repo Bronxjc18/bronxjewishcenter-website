@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:6a91da64e8e92945a0271fe9@bronxjewishcenter.org
+DTSTAMP:20260904T230000Z
+DTSTART:20260904T230000Z
+DTEND:20260905T010000Z
+SUMMARY:Community Shabbat Dinner 
+LOCATION:Bronx Jewish Center, 900 Pelham Parkway South, The Bronx, NY, 10462
+DESCRIPTION:Join us for a warm and delicious Shabbat dinner at the Bronx Jewish Center. We look forward to seeing you! RSVP HERE
+URL:https://www.bronxjewishcenter.org/bjc-events/shabbat/9-4-26
+END:VEVENT
+END:VCALENDAR

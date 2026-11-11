@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:612c55786c27c9218b21b8fe@bronxjewishcenter.org
+DTSTAMP:20210915T230000Z
+DTSTART:20210915T230000Z
+DTEND:20210917T000000Z
+SUMMARY:Yom Kippur
+LOCATION:
+DESCRIPTION:Sept 15 Kol Nidrei 7:00 pm Sept 16 Holiday Services 10:00 am Yizkor 12:30 pm Mincha And Neilah 5:30 pm Fast Ends 7:43 pm Followed by a light meal
+URL:https://www.bronxjewishcenter.org/bjc-events/2021/9/15/yom-kippur
+END:VEVENT
+END:VCALENDAR

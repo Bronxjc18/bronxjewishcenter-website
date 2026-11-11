@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:6a0764c44eaf7520c399570c@bronxjewishcenter.org
+DTSTAMP:20260523T133000Z
+DTSTART:20260523T133000Z
+DTEND:20260523T173000Z
+SUMMARY:Shavuos Yizkor Prayer
+LOCATION:Bronx Jewish Center, 900 Pelham Parkway South, The Bronx, NY, 10462
+DESCRIPTION:Please consider making a donation today and provide the names of your loved ones to be included in our Yizkor booklet. Your generosity will make a lasting difference in the lives of others, even as we honor the memories of those who have passed. Morning Services: 9:30AM Yizkor: 10:00AM Followed by a shabbat Kiddush RSVP HERE Donate here
+URL:https://www.bronxjewishcenter.org/bjc-events/yizkor26
+END:VEVENT
+END:VCALENDAR

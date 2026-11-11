@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:6a3eaaac7e05172d82f8727e@bronxjewishcenter.org
+DTSTAMP:20260703T230000Z
+DTSTART:20260703T230000Z
+DTEND:20260704T010000Z
+SUMMARY:Community Shabbat Dinner
+LOCATION:Bronx Jewish Center, 900 Pelham Parkway South, The Bronx, NY, 10462
+DESCRIPTION:Join us at the BJC for a special Shabbat dinner celebrating 250 years of the United States of America! We look forward to seeing you! RSVP HERE
+URL:https://www.bronxjewishcenter.org/bjc-events/shabbat250
+END:VEVENT
+END:VCALENDAR

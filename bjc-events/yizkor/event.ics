@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:68278f37ec1a2d62aff1fe12@bronxjewishcenter.org
+DTSTAMP:20250603T133000Z
+DTSTART:20250603T133000Z
+DTEND:20250603T173000Z
+SUMMARY:Yizkor Prayer
+LOCATION:Bronx Jewish Center, 900 Pelham Parkway South, The Bronx, NY, 10462
+DESCRIPTION:Morning Services: 9:30AM Yizkor: 10:00AM Followed by Kiddush RSVP Please consider making a donation today and provide the names of your loved ones to be included in our Yizkor booklet. Your generosity will make a lasting difference in the lives of others, even as we honor the memories of those who have passed. Donate here
+URL:https://www.bronxjewishcenter.org/bjc-events/yizkor
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:618b655921216c5945d1354a@bronxjewishcenter.org
+DTSTAMP:20211205T210000Z
+DTSTART:20211205T210000Z
+DTEND:20211205T220000Z
+SUMMARY:Chanukah at Co-op City
+LOCATION:
+DESCRIPTION:Join us on Sunday, December 5th, 2021 at 4:00PM for Chanukah with family and friends at Co-op City.
+URL:https://www.bronxjewishcenter.org/bjc-events/2021/12/5/chanukah-at-co-op-city
+END:VEVENT
+END:VCALENDAR

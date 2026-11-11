@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:63646ddec1382451a76f313c@bronxjewishcenter.org
+DTSTAMP:20221104T230000Z
+DTSTART:20221104T230000Z
+DTEND:20221105T000000Z
+SUMMARY:SHABBAT DINNER
+LOCATION:
+DESCRIPTION:Join us on November 4th at 7:00 pm at The BJC At Pelham Parkway, 900 Pelham Pkwy S, Bronx, NY 10462
+URL:https://www.bronxjewishcenter.org/bjc-events/2022/11/4/shabbat-dinner
+END:VEVENT
+END:VCALENDAR

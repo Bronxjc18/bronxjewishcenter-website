@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:61284903e68a420bb303a548@bronxjewishcenter.org
+DTSTAMP:20210926T170000Z
+DTSTART:20210926T170000Z
+DTEND:20210926T180000Z
+SUMMARY:Sukkah Party at the Zoo
+LOCATION:
+DESCRIPTION:
+URL:https://www.bronxjewishcenter.org/bjc-events/2021/9/26/sukkah-party-at-the-zoo
+END:VEVENT
+END:VCALENDAR

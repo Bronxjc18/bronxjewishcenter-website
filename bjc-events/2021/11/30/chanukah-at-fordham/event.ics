@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:618b63ad3d39c31ed02fa13a@bronxjewishcenter.org
+DTSTAMP:20211201T000000Z
+DTSTART:20211201T000000Z
+DTEND:20211201T010000Z
+SUMMARY:Chanukah at Fordham
+LOCATION:
+DESCRIPTION:Join us on Tuesday, November 30th, 2021 at 7:00PM for Chanukah with family and friends at Fordham.
+URL:https://www.bronxjewishcenter.org/bjc-events/2021/11/30/chanukah-at-fordham
+END:VEVENT
+END:VCALENDAR

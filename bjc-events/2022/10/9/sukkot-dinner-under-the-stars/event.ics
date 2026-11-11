@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:633e64d98b731d4bdc276448@bronxjewishcenter.org
+DTSTAMP:20221009T230000Z
+DTSTART:20221009T230000Z
+DTEND:20221010T000000Z
+SUMMARY:SUKKOT DINNER UNDER THE STARS
+LOCATION:
+DESCRIPTION:Join us on October 9th at 7:00 PM at The BJC At Pelham Parkway, 900 Pelham Pkwy S, Bronx, NY 10462
+URL:https://www.bronxjewishcenter.org/bjc-events/2022/10/9/sukkot-dinner-under-the-stars
+END:VEVENT
+END:VCALENDAR

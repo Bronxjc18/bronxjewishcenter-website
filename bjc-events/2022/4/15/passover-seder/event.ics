@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:622a34e4337ee8391f3a239a@bronxjewishcenter.org
+DTSTAMP:20220415T233000Z
+DTSTART:20220415T233000Z
+DTEND:20220416T003000Z
+SUMMARY:Passover Seder
+LOCATION:
+DESCRIPTION:Join us on Friday, April 15th, 2022 at 7:30PM for Passover Seder with family and friends at Bronx Jewish Center.
+URL:https://www.bronxjewishcenter.org/bjc-events/2022/4/15/passover-seder
+END:VEVENT
+END:VCALENDAR

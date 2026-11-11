@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:633e6507f533150ff348ac24@bronxjewishcenter.org
+DTSTAMP:20221012T210000Z
+DTSTART:20221012T210000Z
+DTEND:20221012T220000Z
+SUMMARY:SUKKAH PARTY AT THE ZOO
+LOCATION:
+DESCRIPTION:Join us on October 12th at 5:00 pm At The Bronx River Entrance To The Bronx Zoo (Corner of Bronx Park East And Lydig Avenue)
+URL:https://www.bronxjewishcenter.org/bjc-events/2022/10/12/sukkah-party-at-the-zoo
+END:VEVENT
+END:VCALENDAR

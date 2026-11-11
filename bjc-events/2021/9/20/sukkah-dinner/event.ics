@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:613fe7fba8a6ec6ba862e07b@bronxjewishcenter.org
+DTSTAMP:20210920T230000Z
+DTSTART:20210920T230000Z
+DTEND:20210921T000000Z
+SUMMARY:Sukkah Dinner
+LOCATION:
+DESCRIPTION:Join us on Monday, September 20, 2021 at 7:00PM for Sukkah Dinner with family and friends at Bronx Jewish Center.
+URL:https://www.bronxjewishcenter.org/bjc-events/2021/9/20/sukkah-dinner
+END:VEVENT
+END:VCALENDAR

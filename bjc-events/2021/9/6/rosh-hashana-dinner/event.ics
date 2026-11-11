@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:6128487ef9fd3721ed99e009@bronxjewishcenter.org
+DTSTAMP:20210906T230000Z
+DTSTART:20210906T230000Z
+DTEND:20210907T150000Z
+SUMMARY:Rosh Hashana 
+LOCATION:
+DESCRIPTION:Sept 6-7 Evening Services: 7:00 pm Followed by 4-course Holiday Dinner Sept 7-8 Holiday Services 10:00 am Followed by Hot Lunch
+URL:https://www.bronxjewishcenter.org/bjc-events/2021/9/6/rosh-hashana-dinner
+END:VEVENT
+END:VCALENDAR

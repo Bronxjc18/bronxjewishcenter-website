@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:620fc2469363d44facc2a495@bronxjewishcenter.org
+DTSTAMP:20220317T220000Z
+DTSTART:20220317T220000Z
+DTEND:20220317T230000Z
+SUMMARY:Purim Mask-erade
+LOCATION:
+DESCRIPTION:Join us on March 17th, 2022 at 6:00PM for Purim Mask-erade with family and friends at Bronx Jewish Center.
+URL:https://www.bronxjewishcenter.org/bjc-events/2022/3/17/purim-mask-erade
+END:VEVENT
+END:VCALENDAR

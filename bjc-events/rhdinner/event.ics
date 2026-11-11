@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:68c0cb1d3795c66a6dc224e0@bronxjewishcenter.org
+DTSTAMP:20250922T230000Z
+DTSTART:20250922T230000Z
+DTEND:20250923T010000Z
+SUMMARY:Rosh Hashana Dinner
+LOCATION:Bronx Jewish Center, 900 Pelham Parkway South, The Bronx, NY, 10462
+DESCRIPTION:RSVP HEre
+URL:https://www.bronxjewishcenter.org/bjc-events/rhdinner
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:64ff172b00e81d138c955159@bronxjewishcenter.org
+DTSTAMP:20230924T223000Z
+DTSTART:20230924T223000Z
+DTEND:20230924T233000Z
+SUMMARY:YOM KIPPUR - KOL NIDREI & MAARIV
+LOCATION:
+DESCRIPTION:Join us At The BJC At Pelham Parkway, 900 Pelham Pkwy S, Bronx, NY 10462
+URL:https://www.bronxjewishcenter.org/bjc-events/2023/9/24/yom-kippur-kol-nidrei-amp-maariv
+END:VEVENT
+END:VCALENDAR

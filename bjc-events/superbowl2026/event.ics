@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:697cf77632b7d870d6bc2eb6@bronxjewishcenter.org
+DTSTAMP:20260208T233000Z
+DTSTART:20260208T233000Z
+DTEND:20260209T013000Z
+SUMMARY:Super Bowl Party
+LOCATION:
+DESCRIPTION:Join BJC for a fun Super Bowl watch party! Enjoy big-screen viewing, snacks, and community vibes. RSVP TODAY
+URL:https://www.bronxjewishcenter.org/bjc-events/superbowl2026
+END:VEVENT
+END:VCALENDAR

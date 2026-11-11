@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:616f7c5f46d98f0eac87a33e@bronxjewishcenter.org
+DTSTAMP:20211105T230000Z
+DTSTART:20211105T230000Z
+DTEND:20211106T000000Z
+SUMMARY:Shabbat Dinner
+LOCATION:
+DESCRIPTION:Join us on Friday, November 5th, 2021 at 7:00PM for Shabbat Dinner with family and friends at Bronx Jewish Center.
+URL:https://www.bronxjewishcenter.org/bjc-events/2021/10/19/shabbat-dinner
+END:VEVENT
+END:VCALENDAR

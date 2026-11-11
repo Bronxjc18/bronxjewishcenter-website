@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:6929c0e51ccccf6b6e7eca3a@bronxjewishcenter.org
+DTSTAMP:20251214T200000Z
+DTSTART:20251214T200000Z
+DTEND:20251214T220000Z
+SUMMARY:Chanukah Concert & Celebration
+LOCATION:Bronx Jewish Center, 900 Pelham Parkway South, The Bronx, NY, 10462
+DESCRIPTION:Giant Menorah Lighting - Chaunkah treats - Performance by Booby Doowah - Crafts for the kids RSVP HERE
+URL:https://www.bronxjewishcenter.org/bjc-events/chanukahconcert
+END:VEVENT
+END:VCALENDAR

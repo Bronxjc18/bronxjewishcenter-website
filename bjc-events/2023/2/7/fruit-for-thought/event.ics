@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:63df3e67a9d028277cebf94f@bronxjewishcenter.org
+DTSTAMP:20230208T000000Z
+DTSTART:20230208T000000Z
+DTEND:20230208T010000Z
+SUMMARY:FRUIT FOR THOUGHT
+LOCATION:
+DESCRIPTION:Join us on February 7th at 7:00 pm at The BJC At Pelham Parkway, 900 Pelham Pkwy S, Bronx, NY 10462
+URL:https://www.bronxjewishcenter.org/bjc-events/2023/2/7/fruit-for-thought
+END:VEVENT
+END:VCALENDAR

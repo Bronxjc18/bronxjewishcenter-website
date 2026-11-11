@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:6814fa7e00a65e17b86b4e70@bronxjewishcenter.org
+DTSTAMP:20250526T230000Z
+DTSTART:20250526T230000Z
+DTEND:20250527T000000Z
+SUMMARY:Ethics of our Fathers
+LOCATION:Bronx Jewish Center, 900 Pelham Parkway South, The Bronx, NY, 10462
+DESCRIPTION:Study Pirkei Avot —timeless Jewish wisdom for meaningful living. Short teachings, big impact. All levels welcome.
+URL:https://www.bronxjewishcenter.org/bjc-events/ethics-ep47f-zdtgd-h5lpt
+END:VEVENT
+END:VCALENDAR

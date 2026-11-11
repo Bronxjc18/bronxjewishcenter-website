@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:6089712426018f73bb030b31@bronxjewishcenter.org
+DTSTAMP:20210429T230000Z
+DTSTART:20210429T230000Z
+DTEND:20210430T000000Z
+SUMMARY:Lag Baomer BBQ
+LOCATION:
+DESCRIPTION:Join us on Thursday, April 29th, 2021 at 7:00PM for a BBQ with music and inviting atmosphere at Bronx Jewish Center.
+URL:https://www.bronxjewishcenter.org/bjc-events/2021/4/29/lag-baomer-bbq
+END:VEVENT
+END:VCALENDAR

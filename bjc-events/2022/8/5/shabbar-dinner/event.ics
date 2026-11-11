@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:62daaff104f7153e7ad157ea@bronxjewishcenter.org
+DTSTAMP:20220805T230000Z
+DTSTART:20220805T230000Z
+DTEND:20220806T000000Z
+SUMMARY:Shabbar Dinner
+LOCATION:
+DESCRIPTION:Join us on August 5th at 7:00 PM, 2022 to celebrate Shabbat Dinner with family and friends at Bronx Jewish Center.
+URL:https://www.bronxjewishcenter.org/bjc-events/2022/8/5/shabbar-dinner
+END:VEVENT
+END:VCALENDAR

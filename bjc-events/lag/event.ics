@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:68103f565f09744a6005343a@bronxjewishcenter.org
+DTSTAMP:20250515T220000Z
+DTSTART:20250515T220000Z
+DTEND:20250516T000000Z
+SUMMARY:Lag B'omer Event
+LOCATION:Bronx Jewish Center, 900 Pelham Parkway South, The Bronx, NY, 10462
+DESCRIPTION:RSVP
+URL:https://www.bronxjewishcenter.org/bjc-events/lag
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:631b7ecfe2ca8878acd900de@bronxjewishcenter.org
+DTSTAMP:20220925T230000Z
+DTSTART:20220925T230000Z
+DTEND:20220926T000000Z
+SUMMARY:Rosh Hashana
+LOCATION:
+DESCRIPTION:Join us on September 25th for evening services 7:00 PM followed by a 4-course Holiday Dinner at The BJC At Pelham Parkway, 900 Pelham Pkwy S, Bronx, NY 10462
+URL:https://www.bronxjewishcenter.org/bjc-events/2022/9/25/rosh-hashana
+END:VEVENT
+END:VCALENDAR

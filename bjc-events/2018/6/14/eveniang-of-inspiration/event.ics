@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:5b1aef022b6a282a613dae22@bronxjewishcenter.org
+DTSTAMP:20180614T223000Z
+DTSTART:20180614T223000Z
+DTEND:20180614T233000Z
+SUMMARY:Evening of Inspiration
+LOCATION:
+DESCRIPTION:
+URL:https://www.bronxjewishcenter.org/bjc-events/2018/6/14/eveniang-of-inspiration
+END:VEVENT
+END:VCALENDAR

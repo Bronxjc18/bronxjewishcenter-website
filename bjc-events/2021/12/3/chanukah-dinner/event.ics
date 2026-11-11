@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:618b65a621216c5945d1363e@bronxjewishcenter.org
+DTSTAMP:20211203T210000Z
+DTSTART:20211203T210000Z
+DTEND:20211203T220000Z
+SUMMARY:Chanukah Dinner
+LOCATION:
+DESCRIPTION:Join us on Friday, December 3rd, 2021 at 4:00PM for Chanukah Dinner with family and friends at Bronx Jewish Center.
+URL:https://www.bronxjewishcenter.org/bjc-events/2021/12/3/chanukah-dinner
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:640f26c115884a1f7259b19f@bronxjewishcenter.org
+DTSTAMP:20230405T233000Z
+DTSTART:20230405T233000Z
+DTEND:20230406T003000Z
+SUMMARY:PASSOVER SEDER
+LOCATION:
+DESCRIPTION:Join us on April 5th, 2023 at 7:30PMd at 7:00 pm at The BJC At Pelham Parkway, 900 Pelham Pkwy S, Bronx, NY 10462
+URL:https://www.bronxjewishcenter.org/bjc-events/2023/4/5/passover-seder
+END:VEVENT
+END:VCALENDAR

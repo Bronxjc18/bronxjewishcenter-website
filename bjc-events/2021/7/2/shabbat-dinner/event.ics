@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:60d53e2dd2ba29772d21b152@bronxjewishcenter.org
+DTSTAMP:20210702T230000Z
+DTSTART:20210702T230000Z
+DTEND:20210703T000000Z
+SUMMARY:Shabbat Dinner
+LOCATION:
+DESCRIPTION:Join us on Friday, July 2, 2021 at 7:00PM for Shabbat Dinner with family and friends at Bronx Jewish Center.
+URL:https://www.bronxjewishcenter.org/bjc-events/2021/7/2/shabbat-dinner
+END:VEVENT
+END:VCALENDAR

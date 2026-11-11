@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:618b62b1b4f5de79296c91af@bronxjewishcenter.org
+DTSTAMP:20211129T220000Z
+DTSTART:20211129T220000Z
+DTEND:20211129T230000Z
+SUMMARY:Menorah Lighting at Pelham Parkway
+LOCATION:
+DESCRIPTION:Join us on Monday, November 29th, 2021 at 5:00PM for Menorah Lighting with family and friends at Pelham Parkway.
+URL:https://www.bronxjewishcenter.org/bjc-events/2021/11/29/menorah-lighting-at-pelham-parkway
+END:VEVENT
+END:VCALENDAR

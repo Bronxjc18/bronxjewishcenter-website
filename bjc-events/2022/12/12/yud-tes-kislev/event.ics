@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bronx Jewish Center//Events//EN
+BEGIN:VEVENT
+UID:63974a6b6adfb12f31dc169d@bronxjewishcenter.org
+DTSTAMP:20221213T000000Z
+DTSTART:20221213T000000Z
+DTEND:20221213T010000Z
+SUMMARY:Yud Tes Kislev
+LOCATION:
+DESCRIPTION:Join us on December 12th at 7:00 pm at The BJC At Pelham Parkway, 900 Pelham Pkwy S, Bronx, NY 10462
+URL:https://www.bronxjewishcenter.org/bjc-events/2022/12/12/yud-tes-kislev
+END:VEVENT
+END:VCALENDAR
